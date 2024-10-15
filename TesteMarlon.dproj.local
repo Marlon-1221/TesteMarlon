@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/13 22:22:41.000.847,=C:\Users\stolf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/13 22:28:53.000.656,C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\UMenu.pas=C:\Users\stolf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/13 22:28:53.000.656,C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\UMenu.dfm=C:\Users\stolf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/13 22:29:08.000.222,C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\TesteMarlon.dproj=C:\Users\stolf\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/10/13 22:30:05.000.427,=C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\Unit1.pas</Transaction>
+    <Transaction>2024/10/13 22:30:20.000.644,C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\Unit1.pas=C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\UCadPedido.pas</Transaction>
+    <Transaction>2024/10/13 22:30:20.000.644,C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\Unit1.dfm=C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\UCadPedido.dfm</Transaction>
+    <Transaction>2024/10/13 23:17:56.000.580,=C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\Unit1.pas</Transaction>
+    <Transaction>2024/10/13 23:18:03.000.730,=C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\Unit1.pas</Transaction>
+    <Transaction>2024/10/13 23:18:41.000.536,C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\Unit1.pas=C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\UDamPedido.pas</Transaction>
+    <Transaction>2024/10/13 23:18:41.000.536,C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\Unit1.dfm=C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\UDamPedido.dfm</Transaction>
+    <Transaction>2024/10/14 17:32:45.649,=C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\Unit1.pas</Transaction>
+    <Transaction>2024/10/14 17:36:42.856,C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\USelCarregaPedido.dfm=C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\Unit1.dfm</Transaction>
+    <Transaction>2024/10/14 17:36:42.856,C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\USelCarregaPedido.pas=C:\Users\stolf\OneDrive\Área de Trabalho\Pedidos\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
